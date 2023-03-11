@@ -1,0 +1,4 @@
+body {
+	/* Enable window dragging for nativefier */
+	-webkit-app-region: drag;
+}
